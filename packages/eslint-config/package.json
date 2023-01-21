@@ -1,0 +1,29 @@
+{
+  "name": "@dochner/eslint-config",
+  "version": "0.9.4",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "dochner <douglas.ochner@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dochner/eslint-config.git",
+    "directory": "packages/eslint-config"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@dochner/eslint-plugin": "workspace:*"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  }
+}

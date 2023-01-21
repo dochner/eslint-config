@@ -1,0 +1,6 @@
+{
+  "extends": "@dochner",
+  "ignorePatterns": [
+    "scripts/release.mjs"
+  ]
+}
