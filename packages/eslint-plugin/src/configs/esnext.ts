@@ -13,7 +13,7 @@ export default defineConfig({
     sourceType: 'module',
   },
   extends: [
-    'plugin:@dochner/core',
+    'plugin:@ochnerd/core',
     'plugin:import/recommended',
     'plugin:promise/recommended',
   ],

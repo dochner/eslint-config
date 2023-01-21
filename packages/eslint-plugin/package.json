@@ -1,10 +1,10 @@
 {
-  "name": "@dochner/eslint-plugin",
+  "name": "@ochnerd/eslint-plugin",
   "version": "0.0.1",
   "description": "My eslint plugin",
   "keywords": [],
   "license": "MIT",
-  "author": "dochner <douglas.ochner@gmail.com>",
+  "author": "ochnerd <douglas.ochner@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dochner/eslint-config.git",

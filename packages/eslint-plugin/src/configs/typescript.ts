@@ -4,7 +4,7 @@ import { TSEquivalents, resolverExtensionsWithTS } from '../constants'
 
 export default defineConfig({
   extends: [
-    'plugin:@dochner/esnext',
+    'plugin:@ochnerd/esnext',
     'plugin:import/typescript',
   ],
   settings: {
