@@ -1,7 +1,7 @@
 {
   "name": "@dochner/eslint-config-monorepo",
   "version": "0.9.4",
-  "private": true,
+  "private": false,
   "packageManager": "pnpm@7.23.0",
   "license": "MIT",
   "author": "dochner <douglasochner@gmail.com>",
