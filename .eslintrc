@@ -1,5 +1,5 @@
 {
-  "extends": "@dochner",
+  "extends": "@ochnerd",
   "ignorePatterns": [
     "scripts/release.mjs"
   ]

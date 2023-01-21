@@ -1,11 +1,11 @@
 module.exports = {
   extends: [
-    'plugin:@dochner/typescript',
-    'plugin:@dochner/react',
-    'plugin:@dochner/vue',
-    'plugin:@dochner/jest',
-    'plugin:@dochner/json',
-    'plugin:@dochner/yml',
-    'plugin:@dochner/markdown',
+    'plugin:@ochnerd/typescript',
+    'plugin:@ochnerd/react',
+    'plugin:@ochnerd/vue',
+    'plugin:@ochnerd/jest',
+    'plugin:@ochnerd/json',
+    'plugin:@ochnerd/yml',
+    'plugin:@ochnerd/markdown',
   ],
 }

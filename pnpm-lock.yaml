@@ -4,7 +4,7 @@ importers:
 
   .:
     specifiers:
-      '@dochner/eslint-config': workspace:*
+      '@ochnerd/eslint-config': workspace:*
       '@dochner/eslint-plugin': workspace:*
       '@types/react': ^18.0.26
       bumpp: ^8.2.1
@@ -15,7 +15,7 @@ importers:
       typescript: ^4.9.4
       zx: ^7.1.1
     devDependencies:
-      '@dochner/eslint-config': link:packages/eslint-config
+      '@ochnerd/eslint-config': link:packages/eslint-config
       '@dochner/eslint-plugin': link:packages/eslint-plugin
       '@types/react': 18.0.27
       bumpp: 8.2.1

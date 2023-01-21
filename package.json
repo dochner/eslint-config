@@ -1,10 +1,10 @@
 {
-  "name": "@dochner/eslint-config-monorepo",
+  "name": "@ochnerd/eslint-config-monorepo",
   "version": "0.0.1",
   "packageManager": "pnpm@7.23.0",
   "private": false,
   "license": "MIT",
-  "author": "dochner <douglasochner@gmail.com>",
+  "author": "ochnerd <douglasochner@gmail.com>",
   "publishConfig": {
     "access": "public"
   },
@@ -21,7 +21,7 @@
     "type-check": "pnpm -r type-check"
   },
   "devDependencies": {
-    "@dochner/eslint-config": "workspace:*",
+    "@ochnerd/eslint-config": "workspace:*",
     "@dochner/eslint-plugin": "workspace:*",
     "@types/react": "^18.0.26",
     "bumpp": "^8.2.1",

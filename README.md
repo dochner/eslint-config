@@ -34,4 +34,4 @@ pnpm lint:fix
 
 ## License
 
-MIT License © 2023-PRESENT [dochner](https://github.com/dochner)
+MIT License © 2023-PRESENT [ochnerd](https://github.com/ochnerd)
